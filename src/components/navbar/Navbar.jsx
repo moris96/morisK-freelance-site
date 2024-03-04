@@ -10,7 +10,7 @@ const Navbar = () => {
       <Container>
 
         {/* Title */}
-        <h1 className='title'>Moris K Development</h1>
+        <h1 className='title text-light'>Moris K Development</h1>
           
         {/* Navigation */}
         <Nav className='ms-auto'>
