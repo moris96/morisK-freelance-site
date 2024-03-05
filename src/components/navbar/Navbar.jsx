@@ -16,6 +16,7 @@ const Navbar = () => {
         <Nav className='ms-auto'>
           <Nav.Link to={"/"} as={NavLink}>Home</Nav.Link>
           <Nav.Link to={"/about"} as={NavLink}>About</Nav.Link>
+          <Nav.Link to={"/portfolio"} as={NavLink}>Portfolio</Nav.Link>
         </Nav>
       </Container>
     </NavbarBs>
